@@ -18,7 +18,8 @@
   line-height: 20px;
   color: #172b4d;
   height: 40px;
-  width: 345px;}
+  width: 345px;
+}
 
 textarea {
   border-radius: 10px;
@@ -29,7 +30,6 @@ textarea {
 
 button {
   border-radius: 8px;
-  margin: 0px 221px 0px 0px;
   margin-bottom: 5px;
   float: left;
 }
