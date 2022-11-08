@@ -11,15 +11,14 @@
 }
 
 .details {
+  border-radius: 10px; 
+  display: flex;
+  flex-direction: row;
   font-size: 17px;
   line-height: 20px;
   color: #172b4d;
   height: 40px;
-  width: 345px;
-  border-radius: 10px; 
-  display: flex;
-  flex-direction: row;
-}
+  width: 345px;}
 
 textarea {
   border-radius: 10px;
@@ -34,4 +33,3 @@ button {
   margin-bottom: 5px;
   float: left;
 }
-
